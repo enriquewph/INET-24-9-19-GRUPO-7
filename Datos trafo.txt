@@ -1,0 +1,62 @@
+Numero de lamina: 125
+Gramos de lamina a comprar: 1977 g
+Numero de carrete: 125_43
+Frecuencia de trabajo: 50 Hz
+Densidad de corriente: 3 A/mm2
+Rendimiento: 0,9
+Rendimiento Real: 0,89
+Coseno Fi: 0,8
+Constante Bobinado (Mano/Maquina): 2
+Induccion Bmax: 11000 Gauss
+Potencia Secundario Total: 100 W
+Seccion del nucleo: 13,07 cm2
+Factor de Apilado: 0,95
+Perdida en conductores: 7,41 W
+Perdida en el nucleo: 3,56 W
+Perdida adicional: 1 W
+Perdida: 11,97 W
+Coeficiente Perdida de la chapa: 1,8 W/Kg
+Constante Calculo Sn (k'): 1,35
+Precio del carrete: 0$
+Precio de las laminas: 988,5$
+Precio del cobre: 138,01$
+Precio total estimado: 1126,51$
+
+
+Caracteristicas del bobinado primario:
+Voltaje: 220 V
+Corriente: 0,63 A
+Potencia: 138,89 W
+Calibre (AWG): 24
+Diametro: 0,51 mm
+Seccion: 0,20 mm2
+Vueltas: 671
+Espiras por Capa: 94
+Capas: 8
+Longitud: 114,77 m
+Largo Medio por Vuelta: 166,34 mm
+Ancho del bobinado estimado: 4,08 mm
+Resistencia: 9,76 ohm
+Perdida: 3,89 W
+Gramos a comprar: 209 g
+Precio estimado: 77,33$
+
+
+Caracteristicas del bobinado secundario 1:
+Voltaje: 9+9 V
+Corriente: 5,56 A
+Potencia: 100 W
+Calibre (AWG): 15
+Diametro: 1,45 mm
+Seccion: 1,65 mm2
+Vueltas: 59
+Vueltas al punto medio: 30
+Espiras por Capa: 33
+Capas: 2
+Longitud: 11,12 m
+Largo Medio por Vuelta: 194,27 mm
+Ancho del bobinado estimado: 2,90 mm
+Resistencia: 0,11 ohm
+Perdida: 3,52 W
+Gramos a comprar: 164 g
+Precio estimado: 60,68$
